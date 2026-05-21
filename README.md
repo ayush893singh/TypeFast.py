@@ -13,7 +13,7 @@ A simple Python Typing Speed Tester project that calculates typing speed and acc
 - time module
 
 # Concepts Used
-This project uses:
+This project uses:-
 
 - Variables
 - Input and Output
@@ -96,6 +96,6 @@ This formula calculates typing speed in Words Per Minute (WPM).
 - Difficulty levels
 - GUI version
 - Leaderboard system
-- 
+  
 # Author
 https://github.com/ayush893singh
