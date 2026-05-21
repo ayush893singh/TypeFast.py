@@ -98,5 +98,4 @@ This formula calculates typing speed in Words Per Minute (WPM).
 - Leaderboard system
 - 
 # Author
-
-Made by Your Name
+https://github.com/ayush893singh
