@@ -48,6 +48,13 @@ python main.py
    - Typing Speed (WPM)
    - Accuracy
 
+# Future Improvements
+- Multiple paragraphs
+- Accuracy percentage
+- Difficulty levels
+- GUI version
+- Leaderboard system
+  
 # Example Output
 ```
 ===== Typing Speed Tester =====
@@ -89,13 +96,5 @@ speed = (word_count / time_taken) * 60
 This formula calculates typing speed in Words Per Minute (WPM).
 
 ---
-# Future Improvements
-
-- Multiple paragraphs
-- Accuracy percentage
-- Difficulty levels
-- GUI version
-- Leaderboard system
-  
 # Author
 https://github.com/ayush893singh
