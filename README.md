@@ -83,10 +83,9 @@ else:
     print("Accuracy: Some mistakes were made")
 ```
 
-This condition checks whether the typed sentence matches the original sentence.
+This condition checks whether the typed sentence matches the original sentence
 
 ---
-
 # Formula Used
 
 ```python
