@@ -14,7 +14,6 @@ A simple Python Typing Speed Tester project that calculates typing speed and acc
 
 # Concepts Used
 This project uses:-
-
 - Variables
 - Input and Output
 - Strings
